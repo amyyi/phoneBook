@@ -1,0 +1,3 @@
+export const ADD_PERSON_INFO = 'ADD_PERSON_INFO';
+export const DELETE_PERSON_INFO = 'DELETE_PERSON_INFO';
+
